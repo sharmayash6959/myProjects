@@ -1,0 +1,99 @@
+*{
+    font-family: 'Times New Roman';
+}
+
+h1{
+    color:green;
+    background-color: yellow;;
+}
+p{
+    color:skyblue;
+    text-align: right;
+}
+body{
+    background-color: rgb(0, 255, 0);
+    background-color: rgb(0, 0, 255);
+    background-color: rgb(255, 0, 255);
+    background-color: #646413;
+    background-color: yellow;
+}
+button{
+    color: white;
+    background-color: red;
+    color: #ffff00;
+}
+.head6{
+    color: red;
+}
+#box{
+    color: white;
+    height: 25px;
+    width: 200px;
+    border: 2px solid black;
+    background-color: blue;
+    text-align: center;
+}
+.heading{
+    color: red;
+    font-weight: lighter;
+}
+#btn{
+    color: white;
+    background-color: green;
+}
+#para2{
+    color: blue;
+    text-align:left;
+    text-decoration: underline;
+    text-decoration: line-through;
+    text-decoration: overline;
+    text-decoration: none;
+    text-decoration: red underline;
+    text-decoration: red dotted overline;
+    font-weight: lighter;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 50px;
+    line-height: normal;
+    text-transform: lowercase;
+}
+
+#p1{
+    font-size: 20pxpx;
+    text-align: center;
+    color: white;
+    line-height: 20px;
+}
+#p3{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    line-height: 20px;
+}
+#head1{
+    text-align: center;
+    color: blue;
+}
+#para4{
+    color: blue;
+    text-align: left;
+    text-transform: uppercase;
+    text-transform: capitalize;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
+.container{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    /* border-radius: 50%; */
+    background-color: pink;
+    text-align: center;
+    padding-left: 20px;
+    padding: 0px 25px 25px 25px;
+    margin: 25px 25px 0px 0px;
+}
